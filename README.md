@@ -21,7 +21,7 @@
 3. Open Choregraphe, go to *File->Import Project from CRG file* from the top menu bar and select the .CRG file from this repo
 4. go to *Edit->Preferences->Virtual Robot* from the top menu bar, and select a NAO robot model
 5. Click play to see its virtual performance
-<img src="complete_UL.png">
+<img src="\complete_UL.png">
 
 ###### Have fun! 🪩
  
