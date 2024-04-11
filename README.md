@@ -3,7 +3,7 @@
 ###### This is a mini robotic program that leads the users to perform a short Taichi exercise ☯️ with a charmful greeting at the end 
 ###### This program is:
 - Executed on a physical mini robot, namely [NAO](https://nl.wikipedia.org/wiki/Nao_(robot))
-- Coded with [Choregraphe](https://www.aldebaran.com/en/support/nao-6/choregraphe-setup-214-windows): A platform to design NAO Robot movements and powered by *Python*
+- Coded with [Choregraphe](https://www.aldebaran.com/en/support/nao-6/downloads-softwares): A platform to design NAO Robot movements and powered by *Python*
 - Ready-to-use: Simply download and connect!
 - Highly expandable: add whatever features and movements you prefer for future use!
 
@@ -16,8 +16,9 @@
   - **Robots can help!** Human-Robot Interaction affects pain and stress reduction (Geva et al., 2022), and improves physical and mental strength likewise (E.A. Konjin, 2022).
  
 ## How to use? 🔨
-1. Download the file and install  [Choregraphe](https://www.aldebaran.com/en/support/nao-6/choregraphe-setup-214-windows)
-2. 
+1. Download the file and install  [Choregraphe](https://www.aldebaran.com/en/support/nao-6/downloads-softwares)
+2. (If Missing vcomp120p.dll) Install *Microsoft Visual C++ Redistributable Packages for Visual Studio 2013* - this package is required to run Choregraphe
+3. 
  
 ## Future Work
 
